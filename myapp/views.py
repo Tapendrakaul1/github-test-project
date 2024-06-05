@@ -10,3 +10,8 @@ def index():
 
 def new_method():
     pass
+
+
+
+def third():
+    pass
