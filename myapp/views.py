@@ -6,3 +6,7 @@ from django.shortcuts import render
 
 def index():
     pass
+
+
+def new_method():
+    pass
